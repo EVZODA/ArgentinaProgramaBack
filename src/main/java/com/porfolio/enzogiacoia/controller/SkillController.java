@@ -31,7 +31,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 
 @RestController
-@CrossOrigin(origins = {"https://ortega-portfolio.web.app", "http://localhost:4200"})
+@CrossOrigin(origins = {"https://enzogiacoia-portfolio.web.app", "http://localhost:4200"})
 public class SkillController {
     
     @Autowired

@@ -30,7 +30,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author x3n0g
  */
 @RestController
-@CrossOrigin(origins = {"https://ortega-portfolio.web.app", "http://localhost:4200"})
+@CrossOrigin(origins = {"https://enzogiacoia-portfolio.web.app", "http://localhost:4200"})
 public class ProjectController {
 
     @Autowired
